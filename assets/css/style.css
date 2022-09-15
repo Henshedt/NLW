@@ -136,11 +136,6 @@ main section:nth-child(3) {
     animation-delay: .8s;
 }
 
-main section {
-    animation: rgb 2s linear infinite alternate;
-    background-size: 200%;
-}
-
 @keyframes fromTop {
 
     from {
@@ -164,15 +159,5 @@ main section {
     to {
         opacity: 1;
         transform: translateX(0);
-    }
-}
-
-@keyframes rgb {
-    0% {
-        background-position: 0% 100%;
-    }
-
-    100% {
-        background-position: 100% 0%;
     }
 }
