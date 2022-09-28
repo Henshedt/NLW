@@ -161,3 +161,14 @@ main section:nth-child(3) {
         transform: translateX(0);
     }
 }
+
+/* Swiper */
+section {
+    overflow: hidden;
+}
+
+.swiper-wrapper {
+    flex-wrap: nowrap;
+    gap: 0;
+
+}
