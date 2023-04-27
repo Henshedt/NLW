@@ -3,7 +3,7 @@
 
 Projeto construido do evento Next level Week da Rocketseat.
 
-🔗 [Clique aqui](https://henshedt.github.io/) para acessar!
+🔗 [Clique aqui](https://henshedt.github.io/NLW/) para acessar!
 
 
 ## Tecnologias
